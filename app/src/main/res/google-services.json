@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "370423491252",
+    "firebase_url": "https://anganwadiweb.firebaseio.com",
+    "project_id": "anganwadiweb",
+    "storage_bucket": "anganwadiweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370423491252:android:a98b623cce91edae",
+        "android_client_info": {
+          "package_name": "com.pka.anganwadisamay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370423491252-8g5818lr150u11f63cpmr5mp7ammep1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pka.anganwadisamay",
+            "certificate_hash": "99d4913e599b9951c2a466af40c4664b88a868b3"
+          }
+        },
+        {
+          "client_id": "370423491252-l0h9nrhh0kftn8g0jjsl4dg0venpavnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKZN_H0BSU2cUgKiC5xFRbo_lcnJ-ZqO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370423491252-l0h9nrhh0kftn8g0jjsl4dg0venpavnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

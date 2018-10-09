@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="female">लड़की</string>
+    <string name="male">लड़का</string>
+    <string name="bacheKaWajan">बच्चे का वजन किलोग्राम में</string>
+    <string name="bacheKiJanamTithi">बच्चे की जन्मतिथि</string>
+    <string name="startbutton">चुनें</string>
+    <string name="wajanLeneKITithi"> वजन लेने की तिथि</string>
+    <string name="chune">चुनें</string>
+    <string name="gadna">गणना</string>
+    <string name="poshanstar">पोषण स्तर</string>
+</resources>

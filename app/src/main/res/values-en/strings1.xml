@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="bacheKaWajan">Weight Of Child(in Kg)</string>
+    <string name="bacheKiJanamTithi"> Child Date Of Birth</string>
+    <string name="startbutton">Select</string>
+    <string name="wajanLeneKITithi"> Date Of Weighing</string>
+    <string name="chune">Select</string>
+    <string name="gadna">Calculate</string>
+    <string name="poshanstar">Health Status</string>
+
+</resources>
